@@ -1,5 +1,9 @@
-git init . -> cria um repositório na pasta atual
-git status -> mostra o status do trabalho (de cada arquiv)
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git commit -m "msg" -> faz commit do que estava para ser comitado
-git log -> mostra todo o histórico de commits
+git init . 		-> Cria um repositório na pasta atual
+git status 		-> Mostra o status do trabalho (de cada arquiv)
+git add nome_arquivo 	-> Adiciona arquivo para ser commitado
+git commit -m "msg" 	-> Faz commit do que estava para ser comitado
+git log 		-> Mostra todo o histórico de commits
+
+
+
+Alteracoes do Joao
