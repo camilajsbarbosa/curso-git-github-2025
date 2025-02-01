@@ -1,0 +1,3 @@
+Esse arquivo é um teste da secundaria 02
+
+mais uma linha no arquivo 02
