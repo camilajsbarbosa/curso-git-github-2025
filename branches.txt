@@ -3,3 +3,5 @@ este arquivo possui informações adicionais sobre branche
 testando
 
 comandos estranhos, mais um teste
+
+mais comandos genéricos
