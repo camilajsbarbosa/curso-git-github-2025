@@ -5,3 +5,5 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 BRANCH DESCRICAO OK
+
+Confira tudo no Youtube
